@@ -1,6 +1,6 @@
 ---
 title: "Analysis of Weather Changes in the Past 80 Years in State of Utah"
-author: "Simran Karim ; u1110980"
+author: "Simran Karim"
 date: "3/30/2022"
 output: html_document
 ---
