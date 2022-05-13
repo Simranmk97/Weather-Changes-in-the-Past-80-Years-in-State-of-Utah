@@ -7,7 +7,7 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-station_data <- read.csv("Assignment03_data.csv")
+station_data <- read.csv("NOAA_Weather_data.csv")
 
 c = station_data$DATE[1:21844]
 c = as.Date(format(as.Date(c, "%m/%d/%y"), "19%y-%m-%d"))
