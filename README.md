@@ -12,11 +12,16 @@ The dataset collected are the Daily Summaries obtained through NOAA database the
 
 After the data was sorted, line-plot with trendline was used to demonstrate the precipitation (PRCP), max and min temperature data across all years between 1940-2020. Below is the plot using the precipitation data. It can be seen that the total PRCP values from each year differ significantly among each other, with highest value at 26.84 and lowest value at 5.33. Therefore, the wettest (26.84 total PRCP) Utah has been was in the year 2010 and the driest (5.33 total PRCP) in 1955. The second driest Utah was in the year 2020. But to the answer the question - Is Utah drier than it was 80 years ago? Following the trendline, it shows an increase in precipitation levels over the years. Bearing in mind that there are noticeable fluctuation in precipitation levels among the years, the trendline depicts that Utah has become wetter over the past 80 years. 
 
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/105514187/168390187-3a4d3b4f-8e4d-4960-b5d8-c10def145a05.png">
+
 
 Below is the plot of the mean maximum temperature in Utah from 1940-2020. The trendline shows an increase in the overall mean max temperature over the years. The lowest recorded mean max temperature can be seen at ~54.88° F, during the year 1993 and the highest recorded mean max temperature is seen at ~64.59° F on the year 2020, thereby indicating the hottest year on record in Utah. It is also important to mention that mean max temperature years 2017 and 2018 are very close to being the highest, however, mean max temperature on the year 2020 is the highest. 
 
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/105514187/168390211-fb0e1df9-3408-40a0-aee5-1e64f127dd84.png">
 
 Finally, to answer the question - What is the coldest year on record in Utah? Below is the plot that shows the annual mean min temperature plot for each year. The trendline shows an overall increase in mean min temperature over the years. However, the lowest mean min temperature was ~26.79° F on the year 1993, therefore, this suggest that 1993 is the coldest year on record in Utah. 
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/105514187/168390238-ab307817-1e5f-4cf1-8e6a-a0344a030d1a.png">
 
 
 ## Conclusion
